@@ -1,0 +1,714 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  padding: 10px 20px;
+  margin-top: 1rem;
+}
+
+
+.right {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-left: 9rem;
+}
+
+.right img:hover{
+cursor: pointer;
+}
+
+.link{
+  text-decoration: none;
+  color: black;
+  opacity: .7;
+}
+.link:hover{
+  cursor: pointer;
+  opacity: 1;
+}
+
+.right p {
+  margin: 0;
+  padding: 0 10px;
+  cursor: pointer;
+}
+
+.download {
+  display: flex;
+  align-items: center;
+  margin-right: 9rem;
+}
+
+.download img {
+  cursor: pointer;
+}
+
+.section2 {
+  margin-top: 2rem;
+  margin-left: 10rem;
+  display: flex;
+}
+
+
+.Group35896 {
+  position: relative;
+  bottom: 6rem;
+  left: 4rem;
+  height: fit-content;
+}
+
+.finential-txt-h {
+  font-family: "Clash Display", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 64px;
+  text-align: left;
+  position: absolute;
+  z-index: 1;
+}
+
+.finential-txt-p {
+  position: absolute;
+  top: 22rem;
+  font-family: "Clash Display", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: left;
+}
+
+.watch {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: -6rem;
+}
+
+.watch button {
+  color: white;
+  background-color: black;
+  padding: 0.9rem;
+  border-radius: 5px;
+}
+
+#watch-now {
+  margin-left: 1.5rem;
+}
+
+.watch label {
+  margin-left: 0.5rem;
+}
+
+.Group35924 {
+  position: relative;
+  z-index: 0;
+  margin-top: 2rem;
+  margin-left: -2.5rem;
+}
+
+.statr-8 {
+  position: absolute;
+  bottom: 2rem;
+  left: 15rem;
+  z-index: 1;
+}
+
+.i-phone {
+  position: relative;
+}
+
+.i-1 {
+  position: absolute;
+  z-index: 5;
+  top: -4rem;
+}
+
+.i-2 {
+  position: absolute;
+  z-index: 4;
+  left: 8.5rem;
+}
+
+.i-3 {
+  position: absolute;
+  z-index: 3;
+  left: 17rem;
+  top: 5rem;
+}
+
+.ellips {
+  position: absolute;
+  z-index: 2;
+  left: 8rem;
+  height: 680px;
+}
+
+.i-4 {
+  position: absolute;
+  z-index: 1;
+  top: 21rem;
+  left: 4rem;
+}
+
+.star-1 {
+  position: absolute;
+  top: -4rem;
+  left: 44rem;
+}
+
+.section3 {
+  margin-top: 1rem;
+}
+
+.iphone-13 {
+  position: relative;
+  margin-left: 6rem;
+}
+
+.iphone-13img {
+  position: absolute;
+  z-index: 4;
+  left: 4rem;
+}
+
+.iphone-13ellips {
+  position: absolute;
+  z-index: 3;
+  left: -6rem;
+  top: -4rem;
+}
+
+.iphone-13bg {
+  position: absolute;
+  z-index: 2;
+  left: -9rem;
+  top: -3rem;
+  width: 40rem;
+}
+
+.features {
+  display: inline;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 10rem;
+}
+
+.ftr {
+  font-family: "Clash Display", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0.16em;
+  text-align: left;
+  color: red;
+  margin-right: 2.5rem;
+}
+
+.urify-prm {
+  font-family: "Clash Display", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: left;
+  margin-left: 9rem;
+  margin-top: -1rem;
+}
+
+.Icon1 {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  margin-top: 0.4rem;
+}
+
+.para {
+  margin-left: 20rem;
+}
+
+.I1-cont {
+  font-family: "Clash Display", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: left;
+}
+
+.ADVANTAGES {
+  margin-left: 3rem;
+}
+
+.adv {
+  font-family: "Clash Display", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: left;
+  color: red;
+}
+.choose {
+  font-family: "Clash Display", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: left;
+  margin-top: -1rem;
+}
+
+.section-4 {
+  margin: 12rem 0 0 6rem;
+  display: flex;
+}
+
+.icon3 {
+  font-family: "Clash Display", sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: left;
+}
+
+.iphone5 {
+  position: relative;
+  top: -9rem;
+}
+
+.iphone5img {
+  position: absolute;
+  z-index: 4;
+  left: 18rem;
+  top: 3rem;
+}
+.iphone5ellips {
+  position: absolute;
+  z-index: 3;
+  left: 6rem;
+}
+
+.iphone5bg {
+  position: absolute;
+  z-index: 2;
+  left: 7rem;
+  top: 15rem;
+}
+
+.iphone5star {
+  position: absolute;
+  z-index: 7;
+  left: 52rem;
+  top: 5rem;
+}
+
+.section-5 {
+  margin: 12rem 0 0 6rem;
+}
+
+.iphone-6 {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.iphone6visa {
+  position: absolute;
+  z-index: 5;
+  top: 11rem;
+  left: 13rem;
+}
+
+.iphone6img {
+  position: absolute;
+  z-index: 4;
+  left: 8rem;
+  top: 1.5rem;
+}
+
+.iphone6ellips {
+  position: absolute;
+  z-index: 3;
+  left: -4rem;
+  top: -2rem;
+}
+
+.iphone6bg {
+  position: absolute;
+  z-index: 2;
+  left: 4rem;
+  top: 15rem;
+}
+
+.custmizable {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: flex-end;
+  margin-top: 13rem;
+  margin-right: 10rem;
+}
+
+.star-cust {
+  width: 3rem;
+  margin-left: 18rem;
+  margin-top: 8rem;
+}
+
+.icon6 {
+  font-family: "Clash Display", sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: left;
+}
+
+.user {
+  margin-top: 8rem;
+}
+
+.testimonial {
+  font-family: "Clash Display", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0.16em;
+  text-align: center;
+}
+
+.userSay {
+  font-family: "Clash Display", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: center;
+  margin-top: -1rem;
+}
+
+.accounters {
+  position: relative;
+}
+
+.accountersImg {
+  position: relative;
+  top: 5rem;
+  left: 7rem;
+  z-index: 4;
+}
+.accountersEllips {
+  position: absolute;
+  margin-left: 2rem;
+  z-index: 3;
+}
+
+.accountersBg {
+  position: absolute;
+  left: 6rem;
+  top: 7.5rem;
+  z-index: 2;
+}
+
+.account {
+  display: flex;
+  align-content: flex-end;
+  margin-top: -2rem;
+}
+
+.accDesc {
+  margin: 10rem 0 0 6rem;
+}
+
+.finential {
+  font-family: "Clash Display", sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: left;
+}
+
+.I1-cont {
+  font-family: "Clash Display", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: left;
+}
+
+.nick {
+  font-family: "Clash Display", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: left;
+}
+
+.star-Acc {
+  position: absolute;
+  left: 8rem;
+}
+
+.FAQ {
+  margin-left: 6rem;
+  margin-top: 6rem;
+}
+
+.FAQ_f {
+  font-family: "Clash Display", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0.16em;
+  text-align: left;
+  color: red;
+}
+
+.frequently {
+  font-family: "Clash Display", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: left;
+  margin-top: 0;
+}
+.que-head {
+  font-family: "Clash Display", sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: left;
+}
+
+.que-para {
+  font-family: "Clash Display", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: justified;
+}
+
+.all_que {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+.questions {
+  padding: 16px;
+}
+
+.questions:nth-child(1),
+.questions:nth-child(4),
+.questions:nth-child(5) {
+  background-color: orange;
+}
+
+.faq-star {
+  margin-left: 18rem;
+}
+
+.parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+}
+
+.bg-rect {
+  margin-top: 4rem;
+  padding: 20px;
+  background-color: rgb(0, 0, 0);
+  height: 30rem;
+  width: 60rem;
+  position: relative;
+  z-index: 10;
+}
+
+.iphone13-pro-img {
+  position: absolute;
+  right: 0;
+  z-index: 9;
+}
+
+.iphone13-pro-uperellips {
+  position: absolute;
+  right: 3rem;
+  top: 0;
+  z-index: 8;
+}
+
+.iphone13-pro-orange {
+  position: absolute;
+  z-index: 8;
+  right: -3rem;
+  top: 4rem;
+}
+
+.iphone13-pro-star {
+  position: absolute;
+  right: 25rem;
+  z-index: 7;
+}
+
+.iphone13-pro-lowerEllips {
+  position: absolute;
+  left: 0;
+  top: 13rem;
+}
+
+.iphone-para {
+  position: absolute;
+  margin-top: 8rem;
+}
+
+.iphone13-pro-head {
+  font-family: "Clash Display", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: left;
+  color: white;
+  margin-left: 4rem;
+}
+
+.iphone13-pro-para {
+  font-family: "Clash Display", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  color: white;
+  margin-top: -2rem;
+  margin-left: 4rem;
+}
+
+.downloat-app {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  padding: 0.6rem;
+  width: 10rem;
+  border-radius: 0.5rem;
+  left: 4rem;
+}
+
+.iphone13-pro-bgUpper {
+  position: absolute;
+  z-index: 7;
+  left: -2rem;
+  margin-bottom: 19rem;
+}
+
+.iphone13-pro-str{
+  position: absolute;
+  z-index: 6;
+  left: 5rem;
+  
+}
+
+.parentend {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-top: 3rem;
+}
+
+.nextParent {
+  width: 65rem;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1rem;
+}
+
+.description {
+  width: 10rem;
+}
+
+.description.social {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.description.social div {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.uri {
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.links {
+  font-family: "Clash Display", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 42px;
+  text-align: center;
+}
+
+.desc {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: 0;
+}
+
+.additional {
+  margin-top: 0.5rem;
+}
+.social {
+  margin-top: 1.8rem;
+}
+
+.forms {
+  display: flex;
+  flex-direction: row;
+}
+
+.forms input{
+  height: 2.5rem;
+  font-size: 1rem;
+  
+}
+
+.forms input {
+  margin-bottom: 0.5rem;
+}
+
+.subscribe {
+  background-color: #000000;
+  color: white;
+  border: none;
+  padding: 0.3rem;
+  cursor: pointer;
+  margin-left: .5rem;
+  height: 2.67rem;
+  width: 6.5rem;
+  border-radius: 5px;
+}
+
+.subscribe:hover {
+  background-color: #2c312c;
+}
+
+.Copyright {
+  height: 8rem;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  font-family: "Clash Display", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  text-align: left;
+}
